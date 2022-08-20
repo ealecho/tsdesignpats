@@ -1,0 +1,9 @@
+{
+  "name": "tsdesignpats",
+  "version": "1.0.0",
+  "description": "typescript design patterns",
+  "main": "index.js",
+  "repository": "https://github.com/ealecho/tsdesignpats.git",
+  "author": "Alecho Edwin",
+  "license": "MIT"
+}
