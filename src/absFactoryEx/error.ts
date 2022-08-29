@@ -1,0 +1,1 @@
+export const factoryError = (err: string) : Error =>  {throw new Error(err)}
